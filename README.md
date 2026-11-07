@@ -70,8 +70,8 @@ Open your browser to:
 
 ### 3. (Optional) Configure Live IBM watsonx.ai Credentials
 Click the **⚙️ Settings** icon in the navigation bar to enter your IBM Cloud credentials:
-- **API Key**: Your IBM Cloud API key
-- **Project ID**: Your watsonx.ai Project GUID
+- **API Key**:Mjx_LY8EYY7M7zYMBPZ3sLOrHQNlKfjoba--fVjgdEzt
+- **Project ID**: c0bcbcf2-fa43-43a8-960e-06ad40facc5c
 - **watsonx URL**: `https://us-south.ml.cloud.ibm.com`
 - **Granite Model**: `ibm/granite-3-8b-instruct`
 
